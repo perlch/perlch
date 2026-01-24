@@ -1,16 +1,9 @@
-<h1 align="center">p e r l c h | p e r l i t</h1>
-
-
-
 <div align="center">
-<img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=perlch&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0d1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
-
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-39acdd?style=for-the-badge&logo=css&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&logoSize=auto" height="28" />
 </div>
-
-
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=perlch&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perlch&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999" alt="Languages" />
