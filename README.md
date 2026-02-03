@@ -6,4 +6,3 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&logoSize=auto" height="28" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perlch&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999" alt="Languages" />
