@@ -5,4 +5,6 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="Apache Cordova" src="https://shields.io" height="28" />
+    <img alt="Tauri" src="https://shields.io" height="28" />
 </div>
